@@ -1,0 +1,6 @@
+*.mat
+~*
+*.swp
+*.asv
+*.pyc
+.DS_Store
