@@ -26,7 +26,7 @@ If you use the code/algorithm for research, please cite the above papers as appr
 
 You can reference a static version of this code released with the first paper by its DOI number:
 
-[![DOI]()]()
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3473561.svg)](https://doi.org/10.5281/zenodo.3473561)
 
 # Sample results
 ### Simulated data
