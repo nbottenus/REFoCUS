@@ -1,0 +1,1 @@
+Download the sample data from the repository release and place in this directory
