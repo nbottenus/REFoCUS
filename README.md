@@ -18,7 +18,7 @@ This code is based on the algorithms proposed in:
 
 > Ali, R.; Dahl, J.; Bottenus, N. "Extending Retrospective Encoding For Robust Recovery of the Multistatic Dataset". *Under review*.
 
-The original (adjoint) REFoCUS alrgorithm was proposed in:
+The original (adjoint) REFoCUS algorithm was proposed in:
 
 > Bottenus, N. "Recovery of the complete data set from focused transmit beams". *IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control*, vol. 65, no. 1, pp. 30-38, Jan. 2018.
 
